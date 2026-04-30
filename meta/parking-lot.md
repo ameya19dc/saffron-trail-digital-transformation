@@ -18,3 +18,7 @@
 
 ## Done / Resolved
 - [moved here when handled, with one-line note on what you concluded]
+
+## To Do
+- move the decision log template to a separate file and reference it in the about section of the decision log file.
+- add the decisions made for the README and not using claude code till later on in the engagement.
