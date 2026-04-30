@@ -19,6 +19,9 @@
 ## To Do
 - [ ] Move the decision log template to a separate file and reference it in the about section of the decision log file.
 - [ ] Add the decisions made for the README and not using claude code till later on in the engagement.
+- [ ] Add to decision log choice to use a v1 to v2 versioning approach for major deliverables.
+- [ ] Choice to keep certain framing tradeoffs (the "substance over concision" decision you just named).
+- [ ] The simulation discipline you're applying - what your character knows vs. what you know - and where that lives in the repo.
 
 ## Done / Resolved
 - [moved here when handled, with one-line note on what you concluded]

@@ -7,8 +7,10 @@
 
 ## 2026-04-30 — Session 2 (Cleanup + Pro Git reading + kickoff)
 - Planned: 4h
-  - Cleanup tasks: 45min
+  - Cleanup tasks: Done as homework (1.5hrs retroactive)
   - Pro Git Ch.2: 45min
-  - Kickoff prep + Priya email response: 2.5h
-- Actual: [fill in after]
-- Notes: [fill in after]
+  - Homework corrections (Est:45min, Actual:52min)
+  - Verify with Claude (Est 15min, Actual: 10min)
+  - Kickoff prep + Priya email response: 2.5h (Actual:2.5h for the 1st draft + 1.5h for first review, the second draft, and the second review with claude) 
+- Actual: 
+- Notes: Pro git chapter 2 took 45 minutes to read.
