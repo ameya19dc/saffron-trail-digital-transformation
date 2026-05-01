@@ -10,6 +10,25 @@
 
 ---
 
+## 2026-05-01 — Created a current-understanding.md file as the running record of what I know about the client.
+
+**Context:** What I know and what my character in the simulation knows are two different things.
+
+**Options considered:** 
+- A: To have no record and just do this mentally.
+- B: To record my understanding by citing sources available at the time in the simulation.
+
+
+**Decision:** Option B
+
+**Reasoning:** Maintains honest separation between known facts,
+hypotheses, and open questions throughout discovery. Prevents
+over-claiming in stakeholder conversations and provides a
+chronological trail of how my understanding evolved. Mirrors a real
+consulting hygiene practice.
+
+---
+
 ## 2026-04-30 — Kickoff response second draft
 
 **Context:** I had to decide whether or not to make a second draft of the kickoff response email after Claude's review
