@@ -8,6 +8,22 @@
 - Creates accountability.
 - Check out the template in the decision-log-template.md file.
 
+---
+
+## 2026-04-27 — Not using Claude Agent for the first phase of the engagement
+
+**Context:** Whether or not to use Claude Agent to do my tasks 
+
+**Options considered:** 
+- A: Use Claude Agent all the way through the engagement.
+- B: Use it in a later phase where programming and quantitative analysis is required.  
+
+
+**Decision:** Option B
+
+**Reasoning:** The more time I spend reading and struggling with the project and manually taking help from Claude as my mentor, I expect to learn more and build confidence for future real life settings which option A would not.
+
+**Revisit when:** When the first phase is complete.
 
 ---
 
