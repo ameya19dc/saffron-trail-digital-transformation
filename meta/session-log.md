@@ -4,22 +4,21 @@ Reflective record of each working session. Newest at top.
 
 ---
 
-## 2026-05-04 — Session 5 ()
+## 2026-05-04 — Session 5 (Summarising kickoff prep till time allotment and logging and cleanup)
 
-**Hours:** Planned X | Actual Y
+**Hours:** Planned 2h | Actual 2h20
 
 **What I did:**
 - Discussing process change for logging with Claude (start time: 23:40 end time: 23:59)
-- Clean up work and logging (start time 00:00 end time: +30) Planned 45m
-- 
+- Clean up work and logging (start time 00:00 end time: 01:09 +30) Planned 60m Actual: 70 + 30 min
 
 **What I decided:**
 
 **Self-review:**
-- What's strong: ...  
-- What's weak or uncertain: ... 
-- Trade-offs I made and why: ... 
-- Where I want input: ... 
+- What's strong: ...  Logging everything with proper reasoning and spending time to understand why I did what till now. Logged 
+- What's weak or uncertain: ... My time logging was not the best till now using paper. But with the new logging process that is rectified for the current and future sessions. 
+- Trade-offs I made and why: ... Tradeoff in the time allotment for methodology.
+- Where I want input: ... To do a consistency check on the logging I have done.
 
 **What I learned:**
 - To design your plans according to what you have already promised. Also, to double check what you promise so you don't regret it later.
