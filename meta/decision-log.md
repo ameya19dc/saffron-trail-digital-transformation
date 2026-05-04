@@ -78,6 +78,21 @@ consulting hygiene practice.
 
 ---
 
+## 2026-04-30 — Substance vs Concision for draft email
+
+**Context:** I had to choose one over the other to finish the task in time.
+
+**Options considered:** 
+- A: Focus more on making the draft concise.
+- B: Choosing substance of the draft and compromising on concision.
+
+
+**Decision:** Option B
+
+**Reasoning:** 
+For me substance trumps concision especially given the length of my draft had not overly exceeded.
+---
+
 ## 2026-04-30 — Kickoff response second draft
 
 **Context:** I had to decide whether or not to make a second draft of the kickoff response email after Claude's review
