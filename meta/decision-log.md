@@ -10,6 +10,55 @@
 
 ---
 
+## 2026-05-02 — Time allotment for Methodology
+
+**Context:** How much time to allot to each of phase?
+
+**Options considered:** 
+- A: Discovery dominant
+- B: Execution heavy
+
+**Decision:** Option B
+
+**Reasoning:** 
+- Discovery-heavy gives a clearer picture of what is needed but the engagement revolves around the promise of pilot solutions and forward-planning. My analytical nature says that the solutions should still be discovery-led and hence we get early stakeholder reactions to avoid goose chases during discovery and save time there and spend more on execution and feedback later.
+
+---
+
+## 2026-05-04 — Logging Process change
+
+**Context:** I was feeling overwhelmed by the logging overhead.
+
+**Options considered:** 
+- A: Get rid of time log and decision log and keep everything in session log.
+- B: To keep all files but only fill the session log in real-time and the rest at the end of session using the session log.
+
+
+**Decision:** Option B
+
+**Reasoning:** 
+- Session log is easy to fill.
+- I can fill in the time stamps as I do every task which makes filling time-log at the end of session very easy.
+- Reading session log makes filling decision log very easy.
+- Now the struggle of filling the files end of session is reduced and I still have a clean record of the main decisions and time spent.
+
+---
+
+## 2026-05-02 — Engagement Methodology
+
+**Context:** Method of implementing the engagement core message.
+
+**Options considered:** 
+- A: 4 stage methodology: Understanding workings, diagnosing problems, proposing solutions, executing and shipping.
+- B: Proposing and executing solutions
+
+**Decision:** Option A
+
+**Reasoning:** 
+- Understanding the workings and diagnosing the problems help create a tailored solution which actually works.
+
+---
+
 ## 2026-05-01 — Created a current-understanding.md file as the running record of what I know about the client.
 
 **Context:** What I know and what my character in the simulation knows are two different things.
