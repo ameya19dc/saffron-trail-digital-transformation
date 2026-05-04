@@ -6,7 +6,7 @@ Reflective record of each working session. Newest at top.
 
 ## 2026-05-04 — Session 5 (Summarising kickoff prep till time allotment and logging and cleanup)
 
-**Hours:** Planned 2h | Actual 2h20
+**Hours:** Planned 1.5h | Actual 2h
 
 **What I did:**
 - Discussing process change for logging with Claude (start time: 23:40 end time: 23:59)
