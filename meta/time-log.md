@@ -1,4 +1,12 @@
-## 2026-05-01 — Session 4 (Logging Groundwork + Discovery next steps)
+## 2026-05-04 — Session 5 (Summarising kickoff prep till time allotment and logging and cleanup)
+- Planned: 1.5h
+  - 20 mins discussing process change with Claude
+  - 30 mins summarising engagement methodology.
+  - 70 mins loggin and cleanup including and a couple of things from the parking lot.
+- Actual: 2h 
+- Notes: Time logging was better than previous sessions but still not the strongest. Next time begin by adding the template before and laying the groundwork for logging before the session.
+
+## 2026-05-02 — Session 4 (Kickoff Prep - Core message and Engagement structure)
 - Planned: 2h
   - 2.5h brainstorming with claude
 - Actual: 2.5h (including the logging)
