@@ -10,7 +10,7 @@ Reflective record of each working session. Newest at top.
 
 **What I did:**
 - Discussing process change for logging with Claude (start time: 23:40 end time: 23:59)
-- Clean up work and logging (start time 00:00 end time: ) Planned 45m
+- Clean up work and logging (start time 00:00 end time: +30) Planned 45m
 - 
 
 **What I decided:**
@@ -37,7 +37,7 @@ Reflective record of each working session. Newest at top.
 
 ## 2026-05-02 — Session 4 (Kickoff Prep - Core message and Engagement structure)
 
-**Hours:** Planned 2 | Actual 3
+**Hours:** Planned 2 | Actual 2.5
 
 **What I did:**
 - Brainstorming with Claude about the most important question at the meeting.
