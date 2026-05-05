@@ -22,3 +22,10 @@
 - However, since this engagement revolves around the pilot solutions, execution, shipping, and forword planning will be treated seriously as well. 
 - Since we have limited time for discovery, we will overlap the propose and execute phase. The early feedback from stakeholders will help to avoid goose chases during discovery. 
 
+## Alignment phase
+
+- Carefully listen to the priorities and ask questions if you don't understand something clearly. Pay full attention.
+- Notice the connecting frame.
+- Reflect each person's concern in their language, connect to the frame, describe don't prescribe, close with discovery-time ask.
+- The traps: Don't pick a side, claim you will do all three, asking them to pick the most important one, the premature framework (prescription without understanding.), do not directly defer for the future.
+- The principle that success-in-the-moment is not alignment but legitimised perspectives + connection visible + time bought for discovery.
