@@ -4,33 +4,42 @@ Reflective record of each working session. Newest at top.
 
 ---
 
-## 2026-05-05 — Session 6 ()
+## 2026-05-05 — Session 6 (Alignment Strategy)
 
-**Hours:** Planned  | Actual 
+**Hours:** Planned  2h | Actual 2.5h
 
 **What I did:**
 - Pre-session. Answering 3 questions from end of session 5 (start: 19:45 end:20:05)
-- Submission review of the previous session (start: 20:05 end:)
+- Submission review of the previous session (start: 20:05 end: 20:55)
+- Priority alignment vs difference (start: 21:00 end: 22:00)
+- Cleanup and logging (start 22:00 end: 22:25)
 
 **What I decided:**
+- To extend the session.
+
 
 **Self-review:**
-- What's strong: ...  Logging everything with proper reasoning and spending time to understand why I did what till now. Logged 
-- What's weak or uncertain: ... My time logging was not the best till now using paper. But with the new logging process that is rectified for the current and future sessions. 
-- Trade-offs I made and why: ... Tradeoff in the time allotment for methodology.
-- Where I want input: ... To do a consistency check on the logging I have done.
+- What's strong: ... Time reflection within the working time and cutting back on the tasks.
+- What's weak or uncertain: ... 
+- Trade-offs I made and why: ... 
+- Where I want input: ... 
 
 **What I learned:**
-- To design your plans according to what you have already promised. Also, to double check what you promise so you don't regret it later.
-- 
+- To address alignment conflict. make everyone feel heard first. 
+- Then if you see a common pattern then tell them that and also how it connects to each of their problems.
+- As a newbie consultant be careful about prescribing solutions instead of describing the problem.
+- The pattern of falling into solution-mode when I see the fix.
+- Alignment is not the goal of kickoff. It is to buy time for discovery.
 
 
 **What surprised me:**
-
+- Not notable.
 
 **What's blocked or open:**
+- The proper rehearsal.
 
 **Next session:**
+Rehearsal of stakeholder response (deferred from today). Continue kickoff prep — Suresh strategy, meeting flow, fade-out prevention. Kickoff itself happens Thursday — exact split between prep and meeting TBD.
 
 ---
 
