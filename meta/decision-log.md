@@ -10,21 +10,6 @@
 
 ---
 
-## 2026-05-02 — Time allotment for Methodology
-
-**Context:** How much time to allot to each of phase?
-
-**Options considered:** 
-- A: Discovery dominant
-- B: Execution heavy
-
-**Decision:** Option B
-
-**Reasoning:** 
-- Discovery-heavy gives a clearer picture of what is needed but the engagement revolves around the promise of pilot solutions and forward-planning. My analytical nature says that the solutions should still be discovery-led and hence we get early stakeholder reactions to avoid goose chases during discovery and save time there and spend more on execution and feedback later.
-
----
-
 ## 2026-05-04 — Logging Process change
 
 **Context:** I was feeling overwhelmed by the logging overhead.
@@ -41,6 +26,21 @@
 - I can fill in the time stamps as I do every task which makes filling time-log at the end of session very easy.
 - Reading session log makes filling decision log very easy.
 - Now the struggle of filling the files end of session is reduced and I still have a clean record of the main decisions and time spent.
+
+---
+
+## 2026-05-02 — Time allotment for Methodology
+
+**Context:** How much time to allot to each of phase?
+
+**Options considered:** 
+- A: Discovery dominant
+- B: Execution heavy
+
+**Decision:** Option B
+
+**Reasoning:** 
+- Discovery-heavy gives a clearer picture of what is needed but the engagement revolves around the promise of pilot solutions and forward-planning. My analytical nature says that the solutions should still be discovery-led and hence we get early stakeholder reactions to avoid goose chases during discovery and save time there and spend more on execution and feedback later.
 
 ---
 
