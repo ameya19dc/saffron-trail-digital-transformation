@@ -4,6 +4,36 @@ Reflective record of each working session. Newest at top.
 
 ---
 
+## 2026-05-05 — Session 6 ()
+
+**Hours:** Planned  | Actual 
+
+**What I did:**
+- Pre-session. Answering 3 questions from end of session 5 (start: 19:45 end:20:05)
+- Submission review of the previous session (start: 20:05 end:)
+
+**What I decided:**
+
+**Self-review:**
+- What's strong: ...  Logging everything with proper reasoning and spending time to understand why I did what till now. Logged 
+- What's weak or uncertain: ... My time logging was not the best till now using paper. But with the new logging process that is rectified for the current and future sessions. 
+- Trade-offs I made and why: ... Tradeoff in the time allotment for methodology.
+- Where I want input: ... To do a consistency check on the logging I have done.
+
+**What I learned:**
+- To design your plans according to what you have already promised. Also, to double check what you promise so you don't regret it later.
+- 
+
+
+**What surprised me:**
+
+
+**What's blocked or open:**
+
+**Next session:**
+
+---
+
 ## 2026-05-04 — Session 5 (Summarising kickoff prep till time allotment and logging and cleanup)
 
 **Hours:** Planned 1.5h | Actual 2h
@@ -13,6 +43,7 @@ Reflective record of each working session. Newest at top.
 - Clean up work and logging (start time 00:00 end time: 01:09 +30) Planned 60m Actual: 70 + 30 min
 
 **What I decided:**
+- Logging process change.
 
 **Self-review:**
 - What's strong: ...  Logging everything with proper reasoning and spending time to understand why I did what till now. Logged 
@@ -45,6 +76,8 @@ Reflective record of each working session. Newest at top.
 - Created a time allotment sturcture for the proposed phases.
 
 **What I decided:**
+- Time allotment methodology
+- Engagement methodology
 
 **Self-review:**
 - What's strong: ... Core message, clearly defined sturcture with time allotment philosophy. 
@@ -82,6 +115,7 @@ kickoff prep continued
 
 
 **What I decided:**
+- created current-understanding file
 
 **Self-review:**
 - What's strong: ... Clean commits with everything, I have an idea of what is where in my directories and am getting used to using them more naturally
