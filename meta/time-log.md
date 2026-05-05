@@ -1,3 +1,12 @@
+## 2026-05-05 — Session 6 (Alignment Strategy for Kickoff)
+- Planned: 2h
+  - 15 pre-session
+  - 50 mins submission review of previous session.
+  - 60 mins Built alignment strategy 
+  - 30 minutes cleanup and logging
+- Actual: 2h 20 mins 
+- Notes: Noticed going beyond time window before and cut down on the tasks. Gave priority to logging before taking up extra tasks.
+
 ## 2026-05-04 — Session 5 (Summarising kickoff prep till time allotment and logging and cleanup)
 - Planned: 1.5h
   - 20 mins discussing process change with Claude
