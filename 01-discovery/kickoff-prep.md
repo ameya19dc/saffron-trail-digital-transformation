@@ -1,15 +1,15 @@
-# Core message of the engagement
+# Kickoff Preparation
 
 ---
 
-## Why I'm here?
+## Why I'm here? (Core message of the engagement)
 - To understand the company's problems and to help to solve them with digitalization.
 
 ---
 
 ## How I'll work?
 - To understand the companies working at a high level to see what matters and at the low level to see what is actually happening. Mismatch between the two is often where most problems live. 
-- Building a good understanding lays the groundwork for building a tailor made solutions. Should take a couple of weeks.
+- Building a good understanding lays the groundwork for building a tailor made solutions. Should take 2-4 weeks depending on the agreement of the length of engagement.
 - Diagnose the pain points and bottlenecks. Will be mixed with the understanding process.
 - Propose to select 1-2 pilot solutions out of a few possible options depending on stakeholder priorities.
 - Execute the selected 1-2 pilot solutions and take care of the adoption, handover, feedback, and what-comes-next.
