@@ -52,7 +52,7 @@ Reflective record of each working session. Newest at top.
 - Where I want input: ... To do a consistency check on the logging I have done.
 
 **What I learned:**
-Nothing notable.
+- My scope extension pattern.
 
 **What surprised me:** 
 - Nothing notable.
@@ -86,7 +86,8 @@ Nothing notable.
 - Where I want input: ... On my engagement file. To make sure I haven't missed out on anything.
 
 **What I learned:**
-- To design your plans according to what you have already promised. Also, to double check what you promise so you don't regret it later.
+- To design your plans according to what you have already promised. Also, to double check what you promise so you don't regret it later. 
+- The creating a monument where an artifact is appropriate mentality of an amateur consultant.
 
 **What surprised me:** 
 - Nothing notable.
