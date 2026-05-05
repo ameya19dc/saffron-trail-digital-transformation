@@ -27,6 +27,8 @@
 - Reading session log makes filling decision log very easy.
 - Now the struggle of filling the files end of session is reduced and I still have a clean record of the main decisions and time spent.
 
+**Revisit when:** After session 10.
+
 ---
 
 ## 2026-05-02 — Time allotment for Methodology
@@ -35,18 +37,20 @@
 
 **Options considered:** 
 - A: Discovery dominant
-- B: Execution heavy
+- B: Discovery led but longer and overlapping execution and feedback
 
 **Decision:** Option B
 
 **Reasoning:** 
 - Discovery-heavy gives a clearer picture of what is needed but the engagement revolves around the promise of pilot solutions and forward-planning. My analytical nature says that the solutions should still be discovery-led and hence we get early stakeholder reactions to avoid goose chases during discovery and save time there and spend more on execution and feedback later.
 
+**Revisit when:** After kickoff meeting.
+
 ---
 
 ## 2026-05-02 — Engagement Methodology
 
-**Context:** Method of implementing the engagement core message.
+**Context:** Method of running the engagement.
 
 **Options considered:** 
 - A: 4 stage methodology: Understanding workings, diagnosing problems, proposing solutions, executing and shipping.
@@ -56,6 +60,8 @@
 
 **Reasoning:** 
 - Understanding the workings and diagnosing the problems help create a tailored solution which actually works.
+
+**Revisit when:** After kickoff meeting.
 
 ---
 
@@ -76,6 +82,8 @@ over-claiming in stakeholder conversations and provides a
 chronological trail of how my understanding evolved. Mirrors a real
 consulting hygiene practice.
 
+**Revisit when:** Check at session 10 how it is going with this file.
+
 ---
 
 ## 2026-04-30 — Substance vs Concision for draft email
@@ -91,6 +99,9 @@ consulting hygiene practice.
 
 **Reasoning:** 
 For me substance trumps concision especially given the length of my draft had not overly exceeded.
+
+**Revisit when:** No condition triggers re-examination.
+
 ---
 
 ## 2026-04-30 — Kickoff response second draft
@@ -105,6 +116,8 @@ For me substance trumps concision especially given the length of my draft had no
 **Decision:** Option B
 
 **Reasoning:** I treat this as a serious project and also a learning opportunity. Creating a first draft makes me think on my own how I want to respond. The review exposed significant flaws in the first draft and also suggested refinement. I feel that writing a better one shows me my ability to understand critique as well as apply it and grow.
+
+**Revisit when:** No condition triggers re-examination.
 
 ---
 
