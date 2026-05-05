@@ -40,7 +40,7 @@ Reflective record of each working session. Newest at top.
 
 **What I did:**
 - Discussing process change for logging with Claude (start time: 23:40 end time: 23:59)
-- Clean up work and logging (start time 00:00 end time: 01:09 +30) Planned 60m Actual: 70 + 30 min
+- Clean up work and logging (start time 00:00 end time: 01:09 +30) Planned 60m Actual: 70 + 30 min.
 
 **What I decided:**
 - Logging process change.
@@ -52,16 +52,16 @@ Reflective record of each working session. Newest at top.
 - Where I want input: ... To do a consistency check on the logging I have done.
 
 **What I learned:**
-- To design your plans according to what you have already promised. Also, to double check what you promise so you don't regret it later.
-- 
+Nothing notable.
 
-
-**What surprised me:**
-
+**What surprised me:** 
+- Nothing notable.
 
 **What's blocked or open:**
+- Nothing notable.
 
-**Next session:**
+**Next session:** 
+- Nothing notable.
 
 ---
 
@@ -76,8 +76,8 @@ Reflective record of each working session. Newest at top.
 - Created a time allotment sturcture for the proposed phases.
 
 **What I decided:**
-- Time allotment methodology
-- Engagement methodology
+- Time allotment methodology.
+- Engagement methodology.
 
 **Self-review:**
 - What's strong: ... Core message, clearly defined sturcture with time allotment philosophy. 
@@ -87,17 +87,16 @@ Reflective record of each working session. Newest at top.
 
 **What I learned:**
 - To design your plans according to what you have already promised. Also, to double check what you promise so you don't regret it later.
-- 
 
-
-**What surprised me:**
+**What surprised me:** 
+- Nothing notable.
 
 
 **What's blocked or open:**
-the kickoff prep is partially done
+the kickoff prep is partially done.
 
 **Next session:**
-kickoff prep continued
+kickoff prep continued.
 
 ---
 
@@ -115,7 +114,7 @@ kickoff prep continued
 
 
 **What I decided:**
-- created current-understanding file
+- created current-understanding file.
 
 **Self-review:**
 - What's strong: ... Clean commits with everything, I have an idea of what is where in my directories and am getting used to using them more naturally
@@ -129,12 +128,13 @@ kickoff prep continued
 
 
 **What surprised me:**
-
+- Nothing notable.
 
 **What's blocked or open:**
+- Nothing notable.
 
 **Next session:**
-
+- Nothing notable.
 
 ---
 Session log started 2026-05-01 (session 3). Earlier sessions documented in time-log.md, decision-log.md, and chat history.
