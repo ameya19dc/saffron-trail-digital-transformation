@@ -9,7 +9,11 @@ Reflective record of each working session. Newest at top.
 **Hours:** Planned  4h | Actual 
 
 **What I did:**
-- Added self review of (start: 16:40)
+- Added self review of session 6 and went through kickoff prep (start: 16:40 end: 17:00)
+- Rehearsal (start: 17:10 end: 18:15)
+- Suresh strategy (start: 18:20 end: 19:00)
+- Fade out prevention (start: 19:00 end: 19:07)
+- Capture in kickoff-prep file (start: 19:08 end: 19:30)
 
 **What I decided:**
 - 
