@@ -1,3 +1,29 @@
+## 2026-05-10 — Session 7 (Kickoff Rehearsal and Actual)
+- Planned: 
+
+### Block 1 (2h)
+- 15 min — Two-minute fix to Session 6's missing self-review fields (carrying over from last week). Re-read your kickoff-prep file to refresh the architecture in your head. Re-orient.
+
+- 40 min — Live rehearsal of the alignment-vs-difference scenario. I play the three stakeholders, you respond in real time. Then debrief.
+30 min — Suresh strategy. He's not in the kickoff, but he's the highest-risk stakeholder for the engagement. We work out how you'd approach the first plant visit, what to say first, how to avoid the consultant-fatigue trap.
+
+- 25 min — Fade-out prevention. What you commit to after the kickoff to make sure this doesn't become another stalled discussion. Concrete actions in week one.
+
+- 10 min — Quick capture of Block 1 outputs into kickoff-prep file. Brief.
+
+- Actual:
+
+### Block 2 (2h)
+
+- 90 min — The 90-minute kickoff. I play Priya, Ramesh, and Karthik. You run the meeting. We do it as close to real-time as the chat format allows.
+
+- 30 min — Immediate post-kickoff capture. While it's fresh: what was said, what you committed to, what you learned about each stakeholder, what surprised you, what you'd do differently. This is the most valuable part of the day for your future engagement work.
+
+- Actual:
+
+
+- Notes: 
+
 ## 2026-05-05 — Session 6 (Alignment Strategy for Kickoff)
 - Planned: 2h
   - 15 pre-session
