@@ -4,6 +4,37 @@ Reflective record of each working session. Newest at top.
 
 ---
 
+## 2026-05-10 — Session 7 (Kickoff Rehearsal and Actual)
+
+**Hours:** Planned  4h | Actual 
+
+**What I did:**
+- Added self review of (start: 16:40)
+
+**What I decided:**
+- 
+
+
+**Self-review:**
+- What's strong: ... 
+- What's weak or uncertain: ...  
+- Trade-offs I made and why: ... 
+- Where I want input: ... 
+
+**What I learned:**
+- 
+
+**What surprised me:**
+- 
+
+**What's blocked or open:**
+- 
+
+**Next session:**
+- 
+
+---
+
 ## 2026-05-05 — Session 6 (Alignment Strategy)
 
 **Hours:** Planned  2h | Actual 2.5h
@@ -20,9 +51,9 @@ Reflective record of each working session. Newest at top.
 
 **Self-review:**
 - What's strong: ... Time reflection within the working time and cutting back on the tasks.
-- What's weak or uncertain: ... 
-- Trade-offs I made and why: ... 
-- Where I want input: ... 
+- What's weak or uncertain: ... Not ready to handle real time as elegantly 
+- Trade-offs I made and why: ... Logging over extra work so that I have a clean and accurate record of this session.
+- Where I want input: ... How do I respond quicker to your questions?
 
 **What I learned:**
 - To address alignment conflict. make everyone feel heard first. 
@@ -39,7 +70,7 @@ Reflective record of each working session. Newest at top.
 - The proper rehearsal.
 
 **Next session:**
-Rehearsal of stakeholder response (deferred from today). Continue kickoff prep — Suresh strategy, meeting flow, fade-out prevention. Kickoff itself happens Thursday — exact split between prep and meeting TBD.
+- Rehearsal of stakeholder response (deferred from today). Continue kickoff prep — Suresh strategy, meeting flow, fade-out prevention. Kickoff itself happens Thursday — exact split between prep and meeting TBD.
 
 ---
 
