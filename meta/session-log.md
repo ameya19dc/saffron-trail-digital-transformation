@@ -7,16 +7,15 @@ Reflective record of each working session. Newest at top.
 ## 2026-05-11 — Session 8 (Logging session 7 + Schedule Tuesday + Recaliberation)
 
 **What I did:**
-- Filled session log, time log, decision log, kickoff prep (start: 16:00)
-
+- Filled session log, time log, decision log, kickoff prep, Tuesday schedule, hours this week confirmed (start: 16:00 end: 17:30)
 
 **What I decided:**
 - To remove the Actual and Planned hours section from the session log. It is already there in the time log and seems redundant to have here. I still record when I started and stopped doing things in the what I did section which helps me to calculate for the time log.
 
 **Self-review:**
-- What's strong: ... Everything is updated 
+- What's strong: ... Everything is updated, this weeks schedule is fixed.
 - What's weak or uncertain: ... There is no condensed version of the important meeting tips. They are a bit scattered.
-- Trade-offs I made and why: ... I chose quality of logging over completing everything when I realised I won't be able to finish everything.
+- Trade-offs I made and why: ... I to extend my session instead of giving up on one of the activities.
 - Where I want input: ... Should I make a important meeting tips section in the kickoff prep file?
 
 **What I learned:**
@@ -26,10 +25,10 @@ Reflective record of each working session. Newest at top.
 - How easily I was able to make the trade-off because I knew before the session that I might have to make it.
 
 **What's blocked or open:**
-- 
+- Important meeting tips section.
 
 **Next session:**
-- 
+- Kickoff re-run.
 
 ---
 
