@@ -10,6 +10,24 @@
 
 ---
 
+## 2026-05-10 — Kickoff repeat
+
+**Context:** The kickoff was to easy.
+
+**Options considered:** 
+- A: Consider the kickoff completed and continue with the engagement.
+- B: Repeat the kickoff with prompts to voice Claude that make some realistic conflicts and pushback scenarios.
+
+
+**Decision:** Option B
+
+**Reasoning:** 
+- I want to learn how to deal with realistic scenarios which are difficult. (Prepare myself for real situations)
+
+**Revisit when:** No condition triggers re-examination.
+
+---
+
 ## 2026-05-04 — Logging Process change
 
 **Context:** I was feeling overwhelmed by the logging overhead.
