@@ -36,12 +36,12 @@
 - Opening line: Sent by Priya to learn how the plant works. Want to understand how the plant works. Want to understand what you think makes work harder. Eventually figure out with you how to tackle this.
 - What to do first at plant: Get introduced to the people, a typical day in the life at the plant. 
 - Day one ending with specific observation: It was nice to meet the team and appreciate the time spent by him to show me around. One observation that made me curious and that I would spend more time asking about it the next day.
-- The Rekha-pattern principle: Don't promise anything you don't concretely. Say that you are asking questions so that when I am working on the solutions I don't add to their work in the form of report writing and to actually something that matters to them.
+- The Rekha-pattern principle: Don't promise anything you can't concretely deliver. Say that you are asking questions so that when I am working on the solutions I don't add to their work in the form of report writing and to actually something that matters to them.
 
 ## Fade out prevention
 The 5 commitments
 - Specific cadence with Priya: 30 min check in calls every week.
-- A first-deliverable: An unpolished with a list of what I started learning, who I've spoken to and what I have noticed. The point is to show motion within a week. Most engagements fail because the first concrete output takes too long.
+- A first-deliverable: An unpolished report with a list of what I started learning, who I've spoken to and what I have noticed. The point is to show motion within a week. Most engagements fail because the first concrete output takes too long.
 - A named go to inside the company. It is Priya by default but to make it explicit.
 - A timeline for first-cut findings: 2 weeks defensible. 3 is acceptable. Four is too long for phase one engagement. 
 - A defined out of scope: no erp, no broad system builds, no perfect data cleanup. Handle any objections if they come up.
