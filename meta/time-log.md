@@ -27,7 +27,7 @@
 
 - Actual: 1h 45 min 
 
-- Notes: Claude voice made the actual meeting very easy. So we will do it again in session 8. The time taken for the preparation was way more than expected. Especially since this session included a high stakes interaction which made me want to go as prepared as possible.
+- Notes: Claude voice made the actual meeting very easy. So we will do it again in session 9. The time taken for the preparation was way more than expected. Especially since this session included a high stakes interaction which made me want to go as prepared as possible.
 
 ## 2026-05-05 — Session 6 (Alignment Strategy for Kickoff)
 - Planned: 2h
