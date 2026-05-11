@@ -1,5 +1,6 @@
 ## 2026-05-10 — Session 7 (Kickoff Rehearsal and Actual)
-- Planned: 
+- Planned: 4h
+- Actual: 4h 20
 
 ### Block 1 (2h)
 - 15 min — Two-minute fix to Session 6's missing self-review fields (carrying over from last week). Re-read your kickoff-prep file to refresh the architecture in your head. Re-orient.
@@ -11,18 +12,17 @@
 
 - 10 min — Quick capture of Block 1 outputs into kickoff-prep file. Brief.
 
-- Actual:
+- Actual: 2h 35
 
 ### Block 2 (2h)
+- Preparation for the meeting (30 min)
+- 90 min — The 90-minute kickoff. I play Priya, Ramesh, and Karthik. You run the meeting. We do it as close to real-time as the chat format allows. (Actual: 45 min)
 
-- 90 min — The 90-minute kickoff. I play Priya, Ramesh, and Karthik. You run the meeting. We do it as close to real-time as the chat format allows.
+- 30 min — Debrief (30 min)
 
-- 30 min — Immediate post-kickoff capture. While it's fresh: what was said, what you committed to, what you learned about each stakeholder, what surprised you, what you'd do differently. This is the most valuable part of the day for your future engagement work.
+- Actual: 1h 45 min 
 
-- Actual:
-
-
-- Notes: 
+- Notes: Claude voice made the actual meeting very easy. So we will do it again in session 8. The time taken for the preparation was way more than expected. Especially since this session included a high stakes interaction which made me want to go as prepared as possible.
 
 ## 2026-05-05 — Session 6 (Alignment Strategy for Kickoff)
 - Planned: 2h
