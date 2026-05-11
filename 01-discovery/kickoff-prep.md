@@ -45,3 +45,16 @@ The 5 commitments
 - A named go to inside the company. It is Priya by default but to make it explicit.
 - A timeline for first-cut findings: 2 weeks defensible. 3 is acceptable. Four is too long for phase one engagement. 
 - A defined out of scope: no erp, no broad system builds, no perfect data cleanup. Handle any objections if they come up.
+
+## Kickoff Checklist
+-  Core message landed (why I'm here) 
+-  Each stakeholder articulates their priority 
+-  Connecting frame named and acknowledged 
+-  Out of scope confirmed (no ERP, no broad systems, no perfect data cleanup) 
+-  Cadence agreed (weekly, day, time) 
+-  Point of contact confirmed (Priya as primary) 
+-  First-week deliverable committed 
+-  Timeline for findings agreed (target: 2 weeks) 
+-  Suresh introduction approach discussed 
+-  Communication channel between meetings agreed 
+-  Next meeting scheduled
