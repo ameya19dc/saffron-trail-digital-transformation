@@ -6,7 +6,7 @@ Reflective record of each working session. Newest at top.
 
 ## 2026-05-10 — Session 7 (Kickoff Rehearsal and Actual)
 
-**Hours:** Planned  4h | Actual 
+**Hours:** Planned  4h | Actual 4h 20
 
 **What I did:**
 - Added self review of session 6 and went through kickoff prep (start: 16:40 end: 17:00)
@@ -14,28 +14,35 @@ Reflective record of each working session. Newest at top.
 - Suresh strategy (start: 18:20 end: 19:00)
 - Fade out prevention (start: 19:00 end: 19:07)
 - Capture in kickoff-prep file (start: 19:08 end: 19:30)
+- Rehearsal for the kickoff introduction.
+- Actual kickoff.
 
 **What I decided:**
-- 
-
+- To do the kickoff again.
 
 **Self-review:**
-- What's strong: ... 
-- What's weak or uncertain: ...  
-- Trade-offs I made and why: ... 
-- Where I want input: ... 
+- What's strong: ... Noticing that the kickoff was too easy in real time. 
+- What's weak or uncertain: ...  Not disrupting it when I noticed it. Being direct and keeping it short. Also, not having knowledge about companies work makes me feel like sometimes I am not able to find the right questions easily. What I need access to (specific terminology)
+- Trade-offs I made and why: ... Chose flow over friction.
+- Where I want input: ... I'd like to do a quiz on what would be the correct answers/approaches to certain pushbacks or conflicts in the meeting.
 
 **What I learned:**
-- 
+- Not to talk too much during the meeting. 
+- To try to connect their talking points better.
+- How to deal with Suresh and plant workers (More about it in 01-discovery/kickoff-prep.md)
+- When asked a direct question answer directly and don't sweeten the talk. 
+- Don't be too stuck to the agenda chronology and let the meeting take its natural course. If really needed then change the topic.
+- Voice simulation is a reliable test of mechanics, not of stakeholder dynamics. For real-pressure rehearsal, need to prompt for friction explicitly.
+- Reflecting what the person said and confirming with them to make sure that I understood correctly heloed me process the information better and without awkward silence, also made the other person feel heard, and made me more confident to give an appropriate reply.
 
 **What surprised me:**
-- 
+- How direct certain characters were and not knowing how to deal with it. Getting a bit frozen. And then in the meeting how easy it made the conversation.
 
 **What's blocked or open:**
-- 
+- A few things about understanding how the business works section of the meeting. 
 
 **Next session:**
-- 
+- Logging session 7 formally
 
 ---
 
