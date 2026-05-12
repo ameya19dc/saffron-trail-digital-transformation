@@ -10,6 +10,25 @@
 
 ---
 
+## 2026-05-12 — Weekly time commitment
+
+**Context:** Committed to extra hours this week. 
+
+**Options considered:** 
+- A: Leave the week open-ended for time extension even after extra hours committed.
+- B: Cap the week to the extra hours committed.
+
+**Decision:** Option A
+
+**Reasoning:** 
+- To gather data on how I behave after committing to extra hours.
+- In week 1 I worked more than the committed hours and in week 2 I dipped because of binge watching TV. 
+- I want to see if a pattern is occuring.
+
+**Revisit when:** - If the pattern repeats 2 more times.
+
+---
+
 ## 2026-05-12 — Simulation vs Real time
 
 **Context:** Committed a time frames in the simulation which correspond to a full time consulting job. In reality this is a side project.
@@ -26,7 +45,8 @@
 - I have a full time cooking job in real life which means there are days when I can't work at all. Hence to be structured and fair with the time commitments I chose option B. 
 - Milestone-based is doesn't build time pressure like time does. The time-based commitments given in the simulation would lose meaning.
 
-**Revisit when:** No condition triggers re-examination.
+**Revisit when:** - Extreme overruns on multiple consecutive committed deliverables despite reasonable effort.
+- Work so compressed that the simulated activities no longer reflect realistic consulting practice.
 
 ---
 
