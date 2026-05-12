@@ -8,6 +8,25 @@
 - Creates accountability.
 - Check out the template in the decision-log-template.md file.
 
+
+---
+
+## 2026-05-12 — Week 2 checkpoint commitment to Ramesh Iyer
+
+**Context:** To check whether the engagement is moving in an acceptable direction.
+
+**Options considered:** 
+- A: Checkpoint at week 2 (what I offered)
+- B: Checkpoint at week 3 (after diagnosis — what I should have offered, by my own analysis in retrospect)
+- No formal checkpoint, just regular updates (consultant-default)
+
+**Decision:** Option A
+
+**Reasoning:** 
+- Decision was structurally sound (early checkpoint addresses real scepticism) but also influenced by pressure-response in the moment and Priya's framing rather than my own. 
+
+**Revisit when:** - No condition triggers re-evaluation since the commitment is already made. Outcome of week-two checkpoint informs whether this structure (early-checkpoint with go/no-go) becomes standard for first-engagements with sceptical clients, or whether a later checkpoint would have been better.
+
 ---
 
 ## 2026-05-12 — Weekly time commitment
