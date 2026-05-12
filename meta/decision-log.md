@@ -10,6 +10,26 @@
 
 ---
 
+## 2026-05-12 — Simulation vs Real time
+
+**Context:** Committed a time frames in the simulation which correspond to a full time consulting job. In reality this is a side project.
+
+**Options considered:** 
+- A: Same time.
+- B: 1 day in Simulation time is 5 hours in real time. (more convention details are in meta/simulation-time-convention.md)
+- C: Milestone-based progression in place of time-based.
+
+
+**Decision:** Option B ()
+
+**Reasoning:** 
+- I have a full time cooking job in real life which means there are days when I can't work at all. Hence to be structured and fair with the time commitments I chose option B. 
+- Milestone-based is doesn't build time pressure like time does. The time-based commitments given in the simulation would lose meaning.
+
+**Revisit when:** No condition triggers re-examination.
+
+---
+
 ## 2026-05-10 — Kickoff repeat
 
 **Context:** The kickoff was to easy.
