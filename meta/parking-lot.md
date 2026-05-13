@@ -17,7 +17,7 @@
 
 
 ## To Do
-
+- practice "I haven't thought about this, here's how I'd think about it now" responses
 
 ## Done / Resolved
 - [ ] Move the decision log template to a separate file and reference it in the about section of the decision log file.
