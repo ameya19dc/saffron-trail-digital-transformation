@@ -11,6 +11,24 @@
 
 ---
 
+## 2026-05-12 — NDA and data handling commitment
+
+**Context:** In the kickoff I was asked about data confidentiality.
+
+**Options considered:** 
+- A: NDA and commitment in writing
+- B: I didn't think of anything else in the meeting and there was no counter from them either.
+(Sub-decision to use a template for simulation purposes, but would get it reviewed by a lawyer in a real engagement.)
+
+**Decision:** Option A
+
+**Reasoning:** 
+- Offered a written NDA plus specific data handling practices (work laptop only, no shared cloud, return or destroy at end of engagement) because Mr Iyer's question was testing operational seriousness, not just willingness to sign a document. The depth of the answer mattered more than the legal form.
+
+**Revisit when:** - It is already committed and in session 10 it will be drafted and revisited.
+
+---
+
 ## 2026-05-12 — Week 2 checkpoint commitment to Ramesh Iyer
 
 **Context:** To check whether the engagement is moving in an acceptable direction.
