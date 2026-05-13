@@ -8,10 +8,74 @@
 - Creates accountability.
 - Check out the template in the decision-log-template.md file.
 
+---
+
+## 2026-05-12 - Communication channel split across stakeholders
+
+**Context:** Agreement on communication channels during kickoff.
+
+**Options considered:**
+- A: Single channel for all stakeholders (e.g., all email).
+- B: Channel matched to each stakeholder's preference and engagement role.
+
+**Decision:** Option B. Email-only for Appa (brief formal updates). 
+30-min weekly call with Priya (engagement-running discussions). 
+WhatsApp for Karthik (tactical/field questions).
+
+**Reasoning:** Each channel reflects both the stakeholder's stated 
+preference and their role in the engagement. Appa is more old school and prefers email which is more formal and feels proper. 
+Priya is the operational partner - this channel keeps us in sync with regular check-ins. 
+Karthik is the field contact - fast and irregular communication channel is the same as his workflow.
+
+The implication is that I am handling three different working relationships with three entities rather than one with the company. This also means that I need to make sure that none of the channels under-inform and are kept up to a certain standard.
+
+**Revisit when:** 
+- Stakeholders feel under-informed
+- There are repeated mistakes happening because of 3 different channels.
 
 ---
 
-## 2026-05-12 — NDA and data handling commitment
+## 2026-05-12 - Pilot approach (staggered/parallel)
+
+**Context:** Concerns around how much time would be consumed by teams to adopt pilots.
+
+**Options considered:** 
+- A: Decide after diagnosis during pilot scoping
+- B: Staggered (Implement 1, Test 1 while implementing 2, test 2 while iterating 1, iterate 2 and decide future steps.)
+- C: Sequential (Iplement and iterate 1, Implement and iterate 2)
+
+**Decision:** Option B
+
+**Reasoning:** 
+- I was suggesting option A, to discuss during scoping of pilots but I was pressured in the meeting by Mr. Iyer that I should have had something in mind and to give a number. 
+- With the staggered approach I was able to explain a structure that seems logical while showing that only the testing phase requires adoption times from the teams of Karthik and others as well. 
+
+**Revisit when:** - During the scoping of pilots to decide more definite time periods.
+
+---
+
+## 2026-05-12 - Pricing structure (risk-shared model)
+
+**Context:** In the kickoff I was asked about data confidentiality.
+
+**Options considered:** 
+- A: Low fee till week 2 check point and higher fee thereafter if the engagement continues.
+- B: Standard uniform fee for the entire engagement.
+- C: Defer pricing to a follow-up call.
+
+**Decision:** Option A
+
+**Reasoning:** 
+- I was under pressure after revealing that this is my first engagement and concerns being voiced about high fees without certainty of a working solution. The risk sharing model works for both. They don't lose a lot of money and I don't lose a lot of time if the engagement doesn't work out. If it does then it is a win-win.
+- The number (INR 20,000) was significantly underpriced - at 50-70 real hours of work, it works out to INR 285-400/hour, well below the INR 500-1,500/hour entry-level Indian consulting market.
+- The underlying cause of underpricing: I was implicitly thinking in my real hours rather than the simulation's professional hours when you quoted. This is structurally why the simulation-time convention written later today matters - not just for my scheduling, but for how you reference time to stakeholders.
+- Defering to a later call in this specific kickoff would have been evasive.
+
+**Revisit when:** - Before any future client engagement, develop a pricing structure (rate, model, phase pricing) in advance. Do not enter pricing conversations without one. Always quote in professional/simulation hours, not personal real hours.
+
+---
+
+## 2026-05-12 - NDA and data handling commitment
 
 **Context:** In the kickoff I was asked about data confidentiality.
 
@@ -29,13 +93,13 @@
 
 ---
 
-## 2026-05-12 — Week 2 checkpoint commitment to Ramesh Iyer
+## 2026-05-12 - Week 2 checkpoint commitment to Ramesh Iyer
 
 **Context:** To check whether the engagement is moving in an acceptable direction.
 
 **Options considered:** 
 - A: Checkpoint at week 2 (what I offered)
-- B: Checkpoint at week 3 (after diagnosis — what I should have offered, by my own analysis in retrospect)
+- B: Checkpoint at week 3 (after diagnosis - what I should have offered, by my own analysis in retrospect)
 - No formal checkpoint, just regular updates (consultant-default)
 
 **Decision:** Option A
@@ -47,7 +111,7 @@
 
 ---
 
-## 2026-05-12 — Weekly time commitment
+## 2026-05-12 - Weekly time commitment
 
 **Context:** Committed to extra hours this week. 
 
@@ -66,7 +130,7 @@
 
 ---
 
-## 2026-05-12 — Simulation vs Real time
+## 2026-05-12 - Simulation vs Real time
 
 **Context:** Committed a time frames in the simulation which correspond to a full time consulting job. In reality this is a side project.
 
@@ -87,7 +151,7 @@
 
 ---
 
-## 2026-05-10 — Kickoff repeat
+## 2026-05-10 - Kickoff repeat
 
 **Context:** The kickoff was to easy.
 
@@ -105,7 +169,7 @@
 
 ---
 
-## 2026-05-04 — Logging Process change
+## 2026-05-04 - Logging Process change
 
 **Context:** I was feeling overwhelmed by the logging overhead.
 
@@ -126,7 +190,7 @@
 
 ---
 
-## 2026-05-02 — Time allotment for Methodology
+## 2026-05-02 - Time allotment for Methodology
 
 **Context:** How much time to allot to each of phase?
 
@@ -143,7 +207,7 @@
 
 ---
 
-## 2026-05-02 — Engagement Methodology
+## 2026-05-02 - Engagement Methodology
 
 **Context:** Method of running the engagement.
 
@@ -160,7 +224,7 @@
 
 ---
 
-## 2026-05-01 — Created a current-understanding.md file as the running record of what I know about the client.
+## 2026-05-01 - Created a current-understanding.md file as the running record of what I know about the client.
 
 **Context:** What I know and what my character in the simulation knows are two different things.
 
@@ -181,7 +245,7 @@ consulting hygiene practice.
 
 ---
 
-## 2026-04-30 — Substance vs Concision for draft email
+## 2026-04-30 - Substance vs Concision for draft email
 
 **Context:** I had to choose one over the other to finish the task in time.
 
@@ -199,7 +263,7 @@ For me substance trumps concision especially given the length of my draft had no
 
 ---
 
-## 2026-04-30 — Kickoff response second draft
+## 2026-04-30 - Kickoff response second draft
 
 **Context:** I had to decide whether or not to make a second draft of the kickoff response email after Claude's review
 
@@ -216,7 +280,7 @@ For me substance trumps concision especially given the length of my draft had no
 
 ---
 
-## 2026-04-27 — Not using Claude Agent for the first phase of the engagement
+## 2026-04-27 - Not using Claude Agent for the first phase of the engagement
 
 **Context:** Whether or not to use Claude Agent to do my tasks 
 
@@ -233,13 +297,13 @@ For me substance trumps concision especially given the length of my draft had no
 
 ---
 
-## 2026-04-27 — Single time-log file plus separate parking-lot file
+## 2026-04-27 - Single time-log file plus separate parking-lot file
 
 **Context:** To keep track of time spent, check the chronology and reasoning of decisions made. 
 
 **Options considered:** 
-- time-log one file and parking-lot — To track the the time planned vs actual for every session in one file and have another file for logging extra questions to keep distractions away during the session.
-- time-log multiple files — Each file would contain a fairly detailed breakdown of time spent in each session, with one goal being to check focus every 15 minutes.  
+- time-log one file and parking-lot - To track the the time planned vs actual for every session in one file and have another file for logging extra questions to keep distractions away during the session.
+- time-log multiple files - Each file would contain a fairly detailed breakdown of time spent in each session, with one goal being to check focus every 15 minutes.  
 
 
 **Decision:** time-log single file and parking-lot.
@@ -250,7 +314,7 @@ For me substance trumps concision especially given the length of my draft had no
 
 ---
 
-## 2026-04-27 — Repository structure organized by engagement phase
+## 2026-04-27 - Repository structure organized by engagement phase
 
 **Context:** Setting up the project repo. Needed to decide how to organize 
 top-level folders.
@@ -273,7 +337,7 @@ internal structure.
 
 ---
 
-## 2026-04-27 — Used Node .gitignore template as starting point
+## 2026-04-27 - Used Node .gitignore template as starting point
 
 **Context:** Needed a .gitignore for a primarily Markdown repo. GitHub 
 offers language-specific templates.
@@ -286,6 +350,6 @@ offers language-specific templates.
 **Decision:** Started with Node template, but switched to empty .gitignore and added entries.
 
 **Reasoning:** Defaulted to a familiar template under time pressure. 
-Acknowledging this was not a careful choice — flagged for cleanup. Changing to an empty one and adding entries made it cleaner and easier to see why I was writing each line. Once I began removing entries, it seemed wiser to spend time on understanding which lines to put rather than which ones to remove.
+Acknowledging this was not a careful choice - flagged for cleanup. Changing to an empty one and adding entries made it cleaner and easier to see why I was writing each line. Once I began removing entries, it seemed wiser to spend time on understanding which lines to put rather than which ones to remove.
 
 **Revisit when:** Cleanup task on 2026-04-30.

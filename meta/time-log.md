@@ -1,4 +1,9 @@
-## 2026-05-10 — Session 8 (Logging session 7 + Schedule Tuesday + Recaliberation)
+## 2026-05-12 — Session 9 (Kickoff Re-run)
+- Planned: 4h
+- Actual: 
+- Notes: 
+
+## 2026-05-11 — Session 8 (Logging session 7 + Schedule Tuesday + Recaliberation)
 - Planned: 1h
 - Actual: 1h 30
 - Notes: Extended the session by 30 to complete all tasks. Had the energy and the work needed to be done. Have a nice activity planned in the evening to wind down.
