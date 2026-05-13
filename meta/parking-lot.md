@@ -17,6 +17,7 @@
 
 
 ## To Do
+- Finish session 9 close-out
 - practice "I haven't thought about this, here's how I'd think about it now" responses
 
 ## Done / Resolved

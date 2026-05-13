@@ -15,17 +15,16 @@
 **Context:** Agreement on communication channels during kickoff.
 
 **Options considered:**
-- A: Single channel for all stakeholders (e.g., all email).
+- A: Single channel for all stakeholders.
 - B: Channel matched to each stakeholder's preference and engagement role.
 
 **Decision:** Option B. Email-only for Appa (brief formal updates). 
 30-min weekly call with Priya (engagement-running discussions). 
 WhatsApp for Karthik (tactical/field questions).
 
-**Reasoning:** Each channel reflects both the stakeholder's stated 
-preference and their role in the engagement. Appa is more old school and prefers email which is more formal and feels proper. 
+**Reasoning:** Each channel reflects both the stakeholder's stated preference and their role in the engagement. Appa is more old school and prefers email which is more formal and feels proper. 
 Priya is the operational partner - this channel keeps us in sync with regular check-ins. 
-Karthik is the field contact - fast and irregular communication channel is the same as his workflow.
+Karthik is the field contact - WhatsApp matches his actual workflow, which is fast and irregular.
 
 The implication is that I am handling three different working relationships with three entities rather than one with the company. This also means that I need to make sure that none of the channels under-inform and are kept up to a certain standard.
 
@@ -126,7 +125,7 @@ The implication is that I am handling three different working relationships with
 - In week 1 I worked more than the committed hours and in week 2 I dipped because of binge watching TV. 
 - I want to see if a pattern is occuring.
 
-**Revisit when:** - If the pattern repeats 2 more times.
+**Revisit when:** - Revisit if the binge-skip pattern repeats in any week within the next 4 weeks, or if it occurs twice in any 6-week window.
 
 ---
 
