@@ -4,13 +4,42 @@ Reflective record of each working session. Newest at top.
 
 ---
 
-## 2026-05-12 — Session 9 (Kickoff Re-run)
+## 2026-06-14 - Session 10 (Session 9 logging + 2 week checkpoint planning)
+
+
+**What I did:**
+- Session 9 logging (start: 6:45 end: 8:00)
+
+**What I decided:**
+- 
+
+**Self-review:**
+- What's strong: ...
+- What's weak or uncertain: ...
+- Trade-offs I made and why: ...
+- Where I want input: ...
+
+**What I learned:**
+- I noticed that if I have planned to work on this engagement on a day I have a half day at work, I end up delaying if I don't feel rested. If I have napped, then I feel good to go.
+
+**What surprised me:**
+- 
+
+**What's blocked or open:**
+- 
+
+**Next session:**
+- 
+
+---
+
+## 2026-05-12 - Session 9 (Kickoff Re-run)
 
 **What I did:**
 - Making sharper voice prompt for Claude (start: 10:50 end: 11:25)
 - Addressing the potential friction in the meeting (start: 11:35 end: 13:00)
 - Actual kickoff (start: 19:25 end: 20:32)
-- Session Capture (start: 00;00 end: )
+- Session Capture (start: 00:00 end: 3:00)
 
 **What I decided:**
 - Simulation vs Real time scale 
@@ -21,30 +50,36 @@ Reflective record of each working session. Newest at top.
 - Pilot approach (staggered/parallel)
 
 **Self-review:**
-- What's strong: ...
-- What's weak or uncertain: ...
-- Trade-offs I made and why: ...
-- Where I want input: ...
+- What's strong: ... Took my time with reviewing and capturing lessons to produce a deeper learning.
+- What's weak or uncertain: ... My meeting skills like offence, taking time to think without thinking I look weak, feeling rushed under wanting to finish the engagement fast and compromising on the quality sometimes like the meeting prep.
+- Trade-offs I made and why: ... Prep quality for time and speed
+- Where I want input: ... How to deal with this feeling of wanting to complete the engagement quickly and not compromising on quality, and sometimes where it is worth making the trade-off.
 
 **What I learned:**
-[1-3 things. Lessons about consulting, about myself, about the 
-work.]
+- My instinct while addressing friction is to act to the direct question and not make an effort to understand the concern under it. The solution was sometimes to ask what the concern is. If I don't have a direct answer then sometimes thinking out loud might help or pausing to think might help. In a conflict where I am not the focus, I should give space explicitly.
+- Meeting prep: I should prepare better for defence of obvious topics that will likely surface (Fee, complete project timeline, potential working of certain phases like solution implementation time framework, etc.) and for offence as well which I did not do for this meeting and missed out on important intel like plant politics and other things that might not have crossed my mind to ask.
+- Approach to thinking on my feet: If I come across a question that I have not thought about, then it is better to admit explicitly and ask for a few moments to work it out on the spot rather than spewing some fast unthoughtful solution.
+- When put under a lot of pressure, could feel the nervousness in my demeanor which voice claude might not have captured. This also needs to be addressed in approach and more voice interactions to reduce for future instances.
+- What if I don't like the solution type response: Be direct with the approach and say that if I don't like any of the solutions and don't want to continue then we stop. Address any follow up concerns like fees as they come up.
+- I was in a save-my-ass defensive mindset, which prevented me from asking offensive questions. I should specifically prepare myself to switch to an offensive one when needed.
+- Asking before answering is a skill that depends on context and framing. Asking for their input on a domain where they have specialist knowledge (Suresh's personality) is powerful, while letting them know that I had also thought about the problem showing preparedness and competence. Asking them to do my job for me (pricing, NDA) is weak.
+- With someone like Appa, admitting what I don't know often produces more trust than performing what I do. This is a non-obvious move and I used it.
+- In multi-stakeholder meetings, watch for moments where someone else does the synthesis work for I. Notice when I get rescued, and notice who's doing the rescuing. In a real engagement, I can't always count on Priya being there. 
+- Before prioritising meeting concerns, simulate the meeting in my head with pen and paper and then note the friction points I can think of.
+- Self review of individual tasks while logging them separately produced a deeper insight than batch self review.
 
 **What surprised me:**
-[Optional. Something that didn't go as expected — positive or 
-negative.]
+- Even after the preparation, there were some moments where I was like how did I miss this, it was so obvious to come up in the meeting. But it also stemmed from not having enough time to prep before the meeting and prioritising more important stuff for whatever time I had. Something I should really have done is sit with pen and paper and simulate the meeting in my head. That would have helped to prioritise better.
 
 **What's blocked or open:**
-[What I couldn't resolve, what I'm waiting on, what I'm uncertain 
-about heading into the next session.]
+- Adding learnings to the kickoff-prep file.
 
 **Next session:**
-[1-2 sentences. What's the most important thing to tackle next 
-and why.]
+- Complete the logging of this session and work on weekly commitment and NDA.
 
 ---
 
-## 2026-05-11 — Session 8 (Logging session 7 + Schedule Tuesday + Recaliberation)
+## 2026-05-11 - Session 8 (Logging session 7 + Schedule Tuesday + Recaliberation)
 
 **What I did:**
 - Filled session log, time log, decision log, kickoff prep, Tuesday schedule, hours this week confirmed (start: 16:00 end: 17:30)
@@ -72,7 +107,7 @@ and why.]
 
 ---
 
-## 2026-05-10 — Session 7 (Kickoff Rehearsal and Actual)
+## 2026-05-10 - Session 7 (Kickoff Rehearsal and Actual)
 
 **Hours:** Planned  4h | Actual 4h 20
 
@@ -114,7 +149,7 @@ and why.]
 
 ---
 
-## 2026-05-05 — Session 6 (Alignment Strategy)
+## 2026-05-05 - Session 6 (Alignment Strategy)
 
 **Hours:** Planned  2h | Actual 2.5h
 
@@ -136,7 +171,7 @@ and why.]
 
 **What I learned:**
 - To address alignment conflict. make everyone feel heard first. 
-- Then if you see a common pattern then tell them that and also how it connects to each of their problems.
+- Then if I see a common pattern then tell them that and also how it connects to each of their problems.
 - As a newbie consultant be careful about prescribing solutions instead of describing the problem.
 - The pattern of falling into solution-mode when I see the fix.
 - Alignment is not the goal of kickoff. It is to buy time for discovery.
@@ -149,11 +184,11 @@ and why.]
 - The proper rehearsal.
 
 **Next session:**
-- Rehearsal of stakeholder response (deferred from today). Continue kickoff prep — Suresh strategy, meeting flow, fade-out prevention. Kickoff itself happens Thursday — exact split between prep and meeting TBD.
+- Rehearsal of stakeholder response (deferred from today). Continue kickoff prep - Suresh strategy, meeting flow, fade-out prevention. Kickoff itself happens Thursday - exact split between prep and meeting TBD.
 
 ---
 
-## 2026-05-04 — Session 5 (Summarising kickoff prep till time allotment and logging and cleanup)
+## 2026-05-04 - Session 5 (Summarising kickoff prep till time allotment and logging and cleanup)
 
 **Hours:** Planned 1.5h | Actual 2h
 
@@ -184,7 +219,7 @@ and why.]
 
 ---
 
-## 2026-05-02 — Session 4 (Kickoff Prep - Core message and Engagement structure)
+## 2026-05-02 - Session 4 (Kickoff Prep - Core message and Engagement structure)
 
 **Hours:** Planned 2 | Actual 2.5
 
@@ -205,7 +240,7 @@ and why.]
 - Where I want input: ... On my engagement file. To make sure I haven't missed out on anything.
 
 **What I learned:**
-- To design your plans according to what you have already promised. Also, to double check what you promise so you don't regret it later. 
+- To design my plans according to what I have already promised. Also, to double check what I promise so I don't regret it later. 
 - The creating a monument where an artifact is appropriate mentality of an amateur consultant.
 
 **What surprised me:** 
@@ -220,9 +255,7 @@ kickoff prep continued.
 
 ---
 
-## 2026-05-01 — Session 3 (Logging Groundwork + Discovery next steps)
-
-**Hours:** Planned X | Actual Y
+## 2026-05-01 - Session 3 (Logging Groundwork + Discovery next steps)
 
 **What I did:**
 - Made a template directory for documenting templates used in the meta files.
