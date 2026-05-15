@@ -1,7 +1,7 @@
 ## 2026-05-12 — Session 9 (Kickoff Re-run)
 - Planned: 4h
-- Actual: 
-- Notes: 
+- Actual: 6h 15min
+- Notes: Session logging and reflecting over decisions and filling in the decision log took way more than estimated. Quality was good.
 
 ## 2026-05-11 — Session 8 (Logging session 7 + Schedule Tuesday + Recaliberation)
 - Planned: 1h
